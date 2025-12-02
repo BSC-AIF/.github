@@ -11,7 +11,7 @@ This space hosts a curated selection of software resources aligned with the miss
 
 The organization contains two types of repositories:
 
-### 1. `resources` — Curated External Resources  
+### 1. `external-resources` — Curated External Resources  
 A central repository that aggregates **vetted links and references** to external software development resources relevant to AI, HPC, and data engineering.  
 This includes:
 
